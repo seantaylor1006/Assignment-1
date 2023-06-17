@@ -20,7 +20,7 @@ Benefits include:
 
 # Installation
 
-The application cannot be installed but accessed via the index.html URL
+The application cannot be installed but accessed via the index.html URL https://seantaylor1006.github.io/Assignment-1/
 
 # Usage
 
