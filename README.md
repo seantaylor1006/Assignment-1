@@ -1,6 +1,9 @@
 # Assignment-1
 
 ## Description
+This repo is a refactor of urban-octo-telegram
+
+source code: https://github.com/coding-boot-camp/urban-octo-telegram
 
 A webpage for a Search Engine Optimization (SEO) company that outlines how the would help optimize your website through tactics like:
 
