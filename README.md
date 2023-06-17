@@ -1,6 +1,6 @@
 # Assignment-1
 
-##Description
+## Description
 
 A webpage for a Search Engine Optimization (SEO) company that outlines how the would help optimize your website through tactics like:
 -Increasing your website's visibility
@@ -12,14 +12,14 @@ Benefits include:
 -increasing search ranking
 -decreased advertizment cost
 
-#Installation
+# Installation
 
 The application cannot be installed but accessed via the index.html URL
 
-#Usage
+# Usage
 
 To represent Horiseon's brand and advertize themselves to clients interested in learning more about them and their services
 
-#License
+# License
 
 This project is licensed under Horiseon Social Solution Services, Inc.
