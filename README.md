@@ -29,7 +29,8 @@ The application cannot be installed but accessed via the index.html URL https://
 
 To represent Horiseon's brand and advertize themselves to clients interested in learning more about them and their services
 
-![screenshot] (screenshot.png)
+![screenshot](https://github.com/seantaylor1006/Assignment-1/assets/133485957/75acc233-2841-41bc-bb44-930c3d1f4be8)
+
 <!--adding screenshot to the ReadMe, found this specific method on stackoverflow-->
 # License
 
