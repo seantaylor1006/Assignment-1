@@ -29,8 +29,8 @@ The application cannot be installed but accessed via the index.html URL https://
 
 To represent Horiseon's brand and advertize themselves to clients interested in learning more about them and their services
 
-![website screenshot] ()
-
+![screenshot] (screenshot.png)
+<!--adding screenshot to the ReadMe, found this specific method on stackoverflow-->
 # License
 
 This project is licensed under Horiseon Social Solution Services, Inc.
